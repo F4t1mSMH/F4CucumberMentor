@@ -1,7 +1,6 @@
-package stepDefinitions;
+package stepdefinitions;
 
 import io.cucumber.java.en.Then;
-import org.openqa.selenium.devtools.v138.input.model.DragData;
 import utilities.Driver;
 
 public class CommonStepDefinitions {
